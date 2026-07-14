@@ -1,2 +1,5 @@
 .DS_Store
 .vercel
+
+# wikimoth vault — не для репо, риск утечки транскриптов в прод (Vercel раздаёт как статику)
+.wikimoth/
